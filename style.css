@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    background: #f9f9f9;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input, button {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  h2 {
+    margin-top: 2rem;
+    color: darkblue;
+    text-align: center;
+  }
